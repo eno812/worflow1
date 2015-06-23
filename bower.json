@@ -1,0 +1,25 @@
+{
+  "name": "Ian Mackenzie",
+  "version": "1.0.0",
+  "homepage": "https://github.com/eno812/worflow1",
+  "authors": [
+    "Ian Mackenzie <imackenzie03@gmail.com>"
+  ],
+  "description": "Testing worflows",
+  "main": "index.html",
+  "keywords": [
+    "workflows"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "modernizr": "~2.8.3"
+  }
+}
