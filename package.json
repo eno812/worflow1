@@ -1,0 +1,26 @@
+{
+  "name": "ianmackenzie",
+  "version": "1.0.0",
+  "description": "Testing NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eno812/worflow1.git"
+  },
+  "keywords": [
+    "testing",
+    "npm"
+  ],
+  "author": "Ian Mackenzie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eno812/worflow1/issues"
+  },
+  "homepage": "https://github.com/eno812/worflow1#readme",
+  "devDependencies": {
+    "gulp-sass": "^2.0.1"
+  }
+}
